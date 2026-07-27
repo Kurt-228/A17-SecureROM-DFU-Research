@@ -1,0 +1,9 @@
+/work/
+/.cache/
+*.gpr
+*.rep/
+*.log
+*.lock
+.idea/
+.vscode/
+
