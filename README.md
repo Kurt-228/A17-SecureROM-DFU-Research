@@ -41,3 +41,7 @@ claims inherited from the old bundle. Acquisition provenance and
 redistribution status are not independently established; see
 [docs/PROVENANCE.md](docs/PROVENANCE.md).
 
+The current reproducible comparison and bounded reverse-engineering findings
+are recorded in [docs/BINARY_COMPARISON.md](docs/BINARY_COMPARISON.md). Generate
+the raw JSON evidence with `python3 scripts/compare-firmware.py`.
+

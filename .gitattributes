@@ -1,5 +1,7 @@
 *.md text eol=lf
 *.sh text eol=lf
+*.py text eol=lf
 *.java text eol=lf
 *.sha256 text eol=lf
+.gitignore text eol=lf
 images/* binary
